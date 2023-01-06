@@ -1,16 +1,15 @@
-# Copyright 2019 Google LLC
+# A program using Google's Sandboxed API to run Veracruz native modules in a
+# sandboxed environment.
 #
-# Licensed under the Apache License, Version 2.0 (the "License");
-# you may not use this file except in compliance with the License.
-# You may obtain a copy of the License at
+# AUTHORS
 #
-#     https://www.apache.org/licenses/LICENSE-2.0
+# The Veracruz Development Team.
 #
-# Unless required by applicable law or agreed to in writing, software
-# distributed under the License is distributed on an "AS IS" BASIS,
-# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-# See the License for the specific language governing permissions and
-# limitations under the License.
+# COPYRIGHT AND LICENSING
+#
+# See the `LICENSE_MIT.markdown` file in the root directory for copyright and
+# licensing information.
+# Based on Google's Sandboxed API, Apache-2.0 license https://github.com/google/sandboxed-api/blob/main/LICENSE
 
 add_subdirectory(sandboxed-api)
 
